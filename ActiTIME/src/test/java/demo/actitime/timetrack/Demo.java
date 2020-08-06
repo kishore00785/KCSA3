@@ -8,7 +8,7 @@ public class Demo {
 	@Test
 	public void runTest()
 	{
-		Reporter.log("Successfully Running",true);
+		Reporter.log("Successfully  Running",true);
 		
 	}
 	
